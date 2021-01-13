@@ -1,0 +1,40 @@
+ID,NAZIV,ADRESA,ID_GRAD
+20000,Klinički bolnički centar Zagreb,Kišpatićeva ulica 12,30000
+20001,"Klinički bolnički centar ""Sestre milosrdnice""",Vinogradska cesta 29,30000
+21000,"Klinička bolnica ""Dubrava""",Avenija Gojka Šuška 6,30000
+21001,"Klinička bolnica ""Sveti Duh""",Sveti Duh 64,30000
+21002,"Klinička bolnica ""Merkur""",Zajčeva 19,30000
+21003,Klinika za dječje bolesti,Klaićeva 16,30000
+21004,"Klinika za infektivne bolesti ""Dr. Fran Mihaljević""",Mirogojska 8,30000
+21006,Klinika za psihijatriju Vrapče,Bolnička cesta 32,30000
+23003,Dječja bolnica Srebrnjak,Srebrnjak 100,30000
+23004,"Psihijatrijska bolnica ""Sveti Ivan""",Jankomir 11,30000
+23006,Psihijatrijska bolnica za djecu i mladež,Ivana Kukuljevića 11,30000
+22005,Opća bolnica Dubrovnik,Roka Mišetića 2 ,31000
+20002,Klinički bolnički centar Split,Spinčićeva 1,32000
+23000,"""Biokovka"" specijalna bolnica za medicinsku rehabilitaciju - Makarska",Put Cvitačke 9,32013
+22010,Opća bolnica Šibensko-kninske županije,Stjepana Radića 83 ,33000
+22003,"Opća bolnica ""Hrvatski ponos"" Knin",Svetoslava Suronje 12,33008
+22015,Opća bolnica Zadar,Bože Peričića 5 ,34000
+20004,Klinički bolnički centar Osijek,J. Huttlera 4,35000
+22016,Opća županijska bolnica Našice,Bana Jelačića 10 ,35004
+22018,Opća županijska bolnica Vukovar,Županijska 35 ,36000
+22012,Opća bolnica Vinkovci,Zvonarska 57 ,36001
+22013,Opća bolnica Virovitica,Ljudevita Gaja 21 ,37000
+22017,Opća županijska bolnica Požega,Osječka 107 ,38000
+22001,"Opća bolnica ""Dr. Josip Benčević"" Slavonski Brod",Andrije Štampara 42 ,39000
+22019,Županijska bolnica Čakovec,I. G. Kovačića 1E ,40000
+22011,Opća bolnica Varaždin,I. Meštrovića bb ,41000
+22004,Opća bolnica Bjelovar,Mihanovićeva 8 ,42000
+22000,"Opća bolnica ""Dr. Ivo Pedišić"" Sisak",J.J. Strossmayera 59 ,43000
+22007,Opća bolnica Karlovac,Andrije Štampara 3 ,44000
+22008,Opća bolnica Ogulin,Bolnička 38 ,44005
+22002,"Opća bolnica ""Dr. Tomislav Bardek"" Koprivnica",Željka Selingera bb ,45000
+22014,Opća bolnica Zabok,Bračak 8 ,46001
+21007,Magdalena - Klinika za kardiovaskularne bolesti Med.fakulteta u Osijeku,Ljudevita Gaja 2,46003
+20003,Klinički bolnički centar Rijeka,Krešimirova 42,47000
+23005,Psihijatrijska bolnica Rab,Kampor 224,47005
+21005,Klinika za ortopediju Lovran,Šetalište Maršala Tita 1,47009
+22009,Opća bolnica Pula,Aldo Negri 6 ,48001
+23002,"Bolnica za ortopedsku kirurgiju i rehabilitaciju ""Prim.dr. Martin Horvat"" Rovinj",Ulica Luigi Monti 2,48003
+22006,Opća bolnica Gospić,Kaniška 111 ,49000

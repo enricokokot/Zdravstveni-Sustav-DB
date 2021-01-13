@@ -1,0 +1,74 @@
+ID,NAZIV
+500,Dermatitis
+501,Psorijaza
+502,Urtikarija
+503,Akne
+510,Hipotireoza
+511,Dijabetes
+512,Disfunkcija jajnika
+513,Hiperkolesterolemija
+520,Pretilost
+521,Pankreatitis
+522,Gastritis
+523,Celijakija
+530,Klamidija
+531,Amenoreja
+532,Povraćanje u trudnoći
+540,Anemija zbog manjka željeza
+541,Trombocitopenija
+551,Gljivične infekcije
+552,Vodene kozice
+553,Kandida
+554,Blastomikoza
+560,Arterijska hipertenzija
+561,Bakterijski meningitis
+562,Parkinsonova bolest
+563,Alzheimerova bolest
+564,Multipla skleroza
+565,Epilepsija
+566,Migrena
+567,Poremećaji spavanja
+568,Cerebralna paraliza
+570,Glaukom
+571,Miopija
+572,Astigmatizam
+573,Sljepoća i slabovidnost
+580,Upala uha
+581,Gubitak sluha
+590,Shizofrenija
+591,Bipolarni poremećaj
+592,Depresija
+593,Anksiozni poremećaji
+594,Poremećaj hranjenja
+595,Autizam
+596,Namjerno samoozljeđivanje oštrim predmetom
+600,Pneumonija
+601,Alergijski rinitis
+602,Astma
+603,Plućna fibroza
+604,Infekcija respiratornog sustava
+610,Artritis
+611,Osteoporoza
+620,Silovanje
+631,Poremećaji prostate
+700,Tuberkuloza
+705,Rak testisa
+710,Leukemija
+715,Infarkt miokarda
+720,Prijevremeni porođaj
+725,Porodnička smrt
+730,Trenutna smrt
+735,SARS (Teški akutni respiratorni sindrom)
+740,COVID-19
+745,Nezgoda svemirskog broda koja je uzrokovala ozljedu osobe u njemu
+750,Pad s kreveta
+755,Sifilis
+760,Slučajno otrovanje i izlaganje alkoholu
+765,Vješanje
+770,Malarija
+775,AIDS
+780,Rak jetrenih stanica
+785,Rak pluća
+790,Melanom
+795,Rak dojke
+800,Rak maternice
