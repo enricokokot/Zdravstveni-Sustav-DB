@@ -1,4 +1,4 @@
-# Zdravstveni-Sustav-DB
+# Model baze podataka zdravstvenog sustava RH
 
 Naša baza podataka služi službenicima medicinskog sustava kako bi svi podaci bili
 usklađeni u cjelokupnom zdravstvenom sustavu RH.
